@@ -1,0 +1,22 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenalex519/mern-comment-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenalex519/mern-comment-box/issues"
+  },
+  "homepage": "https://github.com/greenalex519/mern-comment-box#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
