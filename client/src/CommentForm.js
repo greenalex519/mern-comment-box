@@ -33,4 +33,4 @@ CommentForm.defaultProps = {
   author: '',
 }
 
-export default CommmentForm;
+export default CommentForm;
